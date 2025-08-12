@@ -1,0 +1,37 @@
+Bài 1:
+
+- Tô màu đỏ cho tất cả thẻ <h1>
+
+- Tô màu xanh cho phần tử có class .highlight.
+
+- Gạch chân phần tử có id special (Tìm hiểu thuộc tính: text-decoration)
+
+- Đổi nền vàng cho tất cả <p> nằm trong <div> có class .box
+
+- Viền đen 2px cho tất cả <li> con trực tiếp của <ul> (Tìm hiểu thuộc tính border)
+
+Bài 2:
+
+- Khi rê chuột vào thẻ <a>, đổi màu chữ thành cam.
+
+- Khi click (active) vào nút <button>, đổi màu nền thành xanh lá.
+
+- Đổi màu xanh dương cho phần tử đầu tiên của danh sách <ul> (Tìm hiểu psedu class: first-child)
+
+- Đổi màu đỏ cho phần tử cuối cùng của danh sách <ol> (Tìm hiểu psedu class: last-child)
+
+- Tô nền xám cho tất cả <li> ở vị trí lẻ (Tìm hiểu pseudo class: nth-child)
+
+Bài 3:
+
+- Thêm ký hiệu "👉" trước mỗi tiêu đề <h2>
+
+- Thêm ký hiệu "✔" sau mỗi mục trong danh sách <li>
+
+- Làm chữ cái đầu tiên của đoạn <p> to hơn và màu đỏ
+
+- Tô nền vàng cho dòng đầu tiên của <p>
+
+- Khi bôi chọn chữ trong <p>, nền sẽ đổi thành xanh lá
+
+Lưu ý: Không được thay đổi html

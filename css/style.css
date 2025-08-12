@@ -1,0 +1,75 @@
+/* * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+} */
+
+/* 01: */
+h1 {
+    color: red
+}
+
+div.box p {
+    background-color: yellow;
+}
+
+.highlight {
+    color: green;
+}
+
+#special {
+    text-decoration: underline;
+}
+
+ul li {
+    border: solid 2px black;
+}
+
+/* 02: */
+li:nth-child(odd) {
+    background-color: gray
+}
+
+a:hover {
+    color: orange;
+}
+
+button {
+    border-style: solid;
+}
+
+button:active {
+    background-color: green;
+    color: white;
+}
+
+ul li:first-child {
+    color: blue;
+}
+
+ol li:last-child {
+    color: red;
+}
+
+/* 03: */
+h2::before {
+    content: "👉 ";
+}
+
+li::after {
+    content: " ✔";
+}
+
+p::first-letter {
+    font-size: x-large;
+    color: red;
+}
+
+p::first-line {
+    background-color: yellow;
+}
+
+p::selection {
+    background: green;
+    color: white;
+}
