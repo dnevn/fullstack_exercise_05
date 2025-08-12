@@ -61,7 +61,7 @@ li::after {
 }
 
 p::first-letter {
-    font-size: x-large;
+    font-size: large;
     color: red;
 }
 
