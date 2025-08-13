@@ -21,13 +21,13 @@ div.box p {
     text-decoration: underline;
 }
 
-ul li {
+/* ul li {
     border: solid 2px black;
-}
+} */
 
 /* 02: */
 li:nth-child(odd) {
-    background-color: gray
+    background-color: lightblue
 }
 
 a:hover {
@@ -43,22 +43,22 @@ button:active {
     color: white;
 }
 
-ul li:first-child {
+/* ul li:first-child {
     color: blue;
 }
 
 ol li:last-child {
     color: red;
-}
+} */
 
 /* 03: */
 h2::before {
     content: "👉 ";
 }
 
-li::after {
+/* li::after {
     content: " ✔";
-}
+} */
 
 p::first-letter {
     font-size: large;
